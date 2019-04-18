@@ -1,0 +1,16 @@
+https://github.com/coldiary/react-image-mapper
+
+To Start App:
+    npm start
+
+For error:
+gulp dev
+
+/Users/vichi/Documents/GitHub/react-image-mapper/node_modules/gulp-git/node_modules/require-dir/index.js:93
+            if (!require.extensions.hasOwnProperty(ext)) {
+
+Deelte require-dir from package.json
+https://github.com/gulpjs/gulp/issues/1963
+
+TO UPDATE AND REINSTALL:
+npm uninstall npm-check-updates -g && npm install npm-check-updates -g
